@@ -1,0 +1,9 @@
+{
+	"ret": true,
+	"code": 10000,
+	"message": "获取成功",
+	"ver": 1,
+	"data": {
+		"timestamp": 1497927646548
+	}
+}
